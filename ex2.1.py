@@ -1,3 +1,6 @@
+#Quadractic equation solver
+#formatting error
+
 import sys
 import math
 
